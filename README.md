@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dirk</h1>
-<h3 align="center">CURIOUS FUTURIST | CREATIVE TECHNOLOGIST | AI EVANGELIST | CITIZEN DEVELOPER</h3>
+<h3 align="center">CURIOUS FUTURIST | CREATIVE TECHNOLOGIST | CRITICAL THINKER</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=morenolabs&label=Profile%20views&color=0e75b6&style=flat" alt="morenolabs" /> </p>
 
