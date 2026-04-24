@@ -60,13 +60,13 @@
 ![Zapier](https://img.shields.io/badge/-Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)
 ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
 
-### 📊 GitHub stats
+### 🏆 GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=morenolabs&show_icons=true&locale=en&theme=default&hide_border=true" alt="GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=morenolabs&layout=compact&locale=en&theme=default&hide_border=true" alt="Top languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=morenolabs&theme=flat&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub trophies" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=morenolabs&hide_border=true" alt="GitHub streak" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=morenolabs&hide_border=true" alt="GitHub streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=morenolabs&layout=compact&locale=en&theme=default&hide_border=true&langs_count=8" alt="Top languages" />
 </p>
